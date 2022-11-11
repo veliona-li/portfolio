@@ -1,0 +1,3 @@
+C:/Dont delete ISP/JB/14les/cmake-build-debug/CMakeFiles/14les.dir
+C:/Dont delete ISP/JB/14les/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dont delete ISP/JB/14les/cmake-build-debug/CMakeFiles/rebuild_cache.dir
