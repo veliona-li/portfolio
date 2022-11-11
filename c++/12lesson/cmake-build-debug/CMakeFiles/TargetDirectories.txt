@@ -1,0 +1,3 @@
+C:/Dont delete ISP/JB/12lesson/cmake-build-debug/CMakeFiles/12lesson.dir
+C:/Dont delete ISP/JB/12lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dont delete ISP/JB/12lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
