@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\DONTDELETEISP\VS\rowincol\ConsoleApplication1\ConsoleApplication1.cpp(34,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\DONTDELETEISP\VS\rowincol\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
