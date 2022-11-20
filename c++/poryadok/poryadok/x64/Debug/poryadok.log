@@ -1,0 +1,4 @@
+﻿  poryadok.cpp
+C:\Users\sweetliar\source\repos\poryadok\poryadok\poryadok.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sweetliar\source\repos\poryadok\poryadok\poryadok.cpp(21,15): warning C4101: a: неиспользованная локальная переменная
+  poryadok.vcxproj -> C:\Users\sweetliar\source\repos\poryadok\x64\Debug\poryadok.exe
